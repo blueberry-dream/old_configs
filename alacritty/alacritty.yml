@@ -1,0 +1,22 @@
+font:
+  normal:
+    family: Hurmit
+    style: regular
+  bold:
+    family: Hurmit
+    style: regular
+  italic:
+    family: Hurmit
+    style: regular
+  size: 12
+
+window:
+  opacity: 0.75
+
+import:
+  # uncomment the flavour you want below:
+  - ~/.config/alacritty/catppuccin/catppuccin-mocha.yml
+#  - ~/.config/alacritty/catppuccin/catppuccin-macchiato.yml
+#  - ~/.config/alacritty/catppuccin/catppuccin-frappe.yml
+#  - ~/.config/alacritty/catppuccin/catppuccin-latte.yml
+#  - ~/.config/alacritty/flexoki/flexoki.yml
